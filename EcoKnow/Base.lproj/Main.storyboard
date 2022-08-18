@@ -82,6 +82,13 @@
                                     <segue destination="FX1-A5-voj" kind="show" id="pGU-X0-J07"/>
                                 </connections>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="hello" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UeT-6I-Obq">
+                                <rect key="frame" x="131" y="548" width="37" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" red="0.92333369040000002" green="1" blue="0.85727551179999995" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
@@ -1308,7 +1315,6 @@ Cg
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="1Eb-vP-cd9"/>
         <segue reference="V9E-54-Dqd"/>
         <segue reference="pgS-XU-RK2"/>
     </inferredMetricsTieBreakers>
