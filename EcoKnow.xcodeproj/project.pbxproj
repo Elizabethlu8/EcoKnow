@@ -14,6 +14,7 @@
 		647ED06328AC1C8500FF01E5 /* EcoKnow.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 647ED06128AC1C8500FF01E5 /* EcoKnow.xcdatamodeld */; };
 		647ED06528AC1C8800FF01E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 647ED06428AC1C8800FF01E5 /* Assets.xcassets */; };
 		647ED06828AC1C8800FF01E5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 647ED06628AC1C8800FF01E5 /* LaunchScreen.storyboard */; };
+		647ED07028AD5B2C00FF01E5 /* mushroom.pdf.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 647ED06F28AD5B2C00FF01E5 /* mushroom.pdf.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		647ED06428AC1C8800FF01E5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		647ED06728AC1C8800FF01E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		647ED06928AC1C8800FF01E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		647ED06F28AD5B2C00FF01E5 /* mushroom.pdf.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mushroom.pdf.jpeg; path = ../../../Downloads/mushroom.pdf.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				647ED05A28AC1C8500FF01E5 /* SceneDelegate.swift */,
 				647ED05C28AC1C8500FF01E5 /* ViewController.swift */,
 				647ED05E28AC1C8500FF01E5 /* Main.storyboard */,
+				647ED06F28AD5B2C00FF01E5 /* mushroom.pdf.jpeg */,
 				647ED06428AC1C8800FF01E5 /* Assets.xcassets */,
 				647ED06628AC1C8800FF01E5 /* LaunchScreen.storyboard */,
 				647ED06928AC1C8800FF01E5 /* Info.plist */,
@@ -131,6 +134,7 @@
 				647ED06828AC1C8800FF01E5 /* LaunchScreen.storyboard in Resources */,
 				647ED06528AC1C8800FF01E5 /* Assets.xcassets in Resources */,
 				647ED06028AC1C8500FF01E5 /* Main.storyboard in Resources */,
+				647ED07028AD5B2C00FF01E5 /* mushroom.pdf.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -291,6 +295,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4B3WF3GQQS;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = EcoKnow/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -318,6 +323,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4B3WF3GQQS;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = EcoKnow/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
